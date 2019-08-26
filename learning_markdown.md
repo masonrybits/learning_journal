@@ -4,6 +4,6 @@ Markdown is an approach to format text. It can be used to style text, add images
 Style | Syntax | Example | Output
 ----- | ------ | ------- | ------
 Bold  | ** **  | &#x002A;&#x002A;Bold&#x002A;&#x002A;| **Bold**
-Italic|  * *   | *Italic*| *Italic*
-Strikethrough|~~ ~~	|~~Strikethrough~~|~~Strikethrough~~
+Italic|  * *   | &#x002A;Italic&#x002A;| *Italic*
+Strikethrough|~~ ~~	|&#x007E;	Strikethrough&#x007E;	|~~Strikethrough~~
 

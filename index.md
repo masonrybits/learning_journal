@@ -6,4 +6,6 @@ A **growth mindset** is a concept that believes that one's fundamental abilities
 * Learn from obstacles
 * Ask for help
 
-You can reach Ting Luo at <tin831@gmail.com>
+You can reach Ting Luo at
+<tin831@gmail.com>
+<https://masonrybits.github.io/learning_journal/>

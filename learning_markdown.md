@@ -16,4 +16,4 @@ To inset an image, use the format format: !&#x005B;Alt Text&#x005D; &#x0028;url&
 
 
 ## Link
-To add a link, use the format format: &#x005B;Link name&#x005D;	&#x0028;url&#x0029;	. For example, &#x005B;Link to Google&#x005D;	&#x0028;www.google.com&#x0029; results in [Link to Google](http:/www.google.com).
+To add a link, use the format format: &#x005B;Link name&#x005D;	&#x0028;url&#x0029;	. For example, &#x005B;Link to Google&#x005D;	&#x0028;http:/www.google.com &#x0029; results in [Link to Google](http:/www.google.com).

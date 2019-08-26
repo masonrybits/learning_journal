@@ -10,8 +10,7 @@ Italic|  * *   | &#x002A;Italic&#x002A;| *Italic*
 Strikethrough|~~ ~~	|&#x007E;&#x007E;		Strikethrough&#x007E;&#x007E;	|~~Strikethrough~~
 
 ## Image
-To inset an image, use the format format: `![Google logo](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)`
-!&#x005B;Alt Text&#x005D; &#x0028;url&#x0029;. For example, !&#x005B;Google logo&#x005D;	&#x0028;https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png&#x0029; results in
+To inset an image, use the format format: !&#x005B;Alt Text&#x005D; &#x0028;url&#x0029;. For example, !&#x005B;Google logo&#x005D;	&#x0028;https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png&#x0029; results in
 
 ![Google logo](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
 

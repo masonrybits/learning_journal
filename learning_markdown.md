@@ -10,4 +10,7 @@ Italic|  * *   | &#x002A;Italic&#x002A;| *Italic*
 Strikethrough|~~ ~~	|&#x007E;&#x007E;		Strikethrough&#x007E;&#x007E;	|~~Strikethrough~~
 
 ## Image
-To inset image, use the format Format: ![Alt Text](url). For example, ![GitHub Logo](/images/logo.png)
+To inset an image, use the format format: ![Alt Text](url). For example, ![GitHub Logo](/images/logo.png)
+
+## Link
+To add a link, use the format format: [Link name](url). 

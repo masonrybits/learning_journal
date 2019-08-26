@@ -13,4 +13,4 @@ Strikethrough|~~ ~~	|&#x007E;&#x007E;		Strikethrough&#x007E;&#x007E;	|~~Striketh
 To inset an image, use the format format: ![Alt Text](url). For example, ![GitHub Logo](/images/logo.png)
 
 ## Link
-To add a link, use the format format: &#x005B; Link name &#x005D;	&#x0028;url &#x0029;	. For example, [Link to Google](www.google.com) 
+To add a link, use the format format: &#x005B;Link name&#x005D;	&#x0028;url&#x0029;	. For example, &#x005B;Link to Google&#x005D;	&#x0028;www.google.com&#x0029;	 [Link to Google](www.google.com) 

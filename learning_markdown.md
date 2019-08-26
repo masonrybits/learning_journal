@@ -3,7 +3,7 @@ Markdown is an approach to format text. It can be used to style text, add images
 - Styling text
 Style | Syntax | Example | Output
 ----- | ------ | ------- | ------
-Bold  | ** **  | "**Bold**"|
-Content in the first column | Content in the second column
+Bold  | ** **  | **Bold**| **Bold**
+Italic|  * *   | *Italic*| *Italic*
 
 

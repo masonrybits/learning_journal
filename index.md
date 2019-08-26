@@ -6,4 +6,4 @@ A **growth mindset** is a concept that believes that one's fundamental abilities
 * Learn from obstacles
 * Ask for help
 
-You can reach me at [title](tin831@gmail.com)
+You can reach me at tin831@gmail.com<tin831@gmail.com>

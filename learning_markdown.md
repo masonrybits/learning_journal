@@ -5,9 +5,9 @@ Markdown is an approach to format text. It can be used to style text, add images
 ## Style
 Style | Syntax | Example | Output
 ----- | ------ | ------- | ------
-Bold  | ** **  | &#x002A;&#x002A;Bold&#x002A;&#x002A;| **Bold**
-Italic|  * *   | &#x002A;Italic&#x002A;| *Italic*
-Strikethrough|~~ ~~	|&#x007E;&#x007E;		Strikethrough&#x007E;&#x007E;	|~~Strikethrough~~
+Bold  | ** **  | `**Bold**`| **Bold**
+Italic|  * *   | `*Italic*`| *Italic*
+Strikethrough|~~ ~~	|`~~Strikethrough~~`|~~Strikethrough~~
 
 ## Image
 To inset an image, use the format format: `![Alt Text](url)`. For example, `![Google logo](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)` results in

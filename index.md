@@ -7,5 +7,5 @@ A **growth mindset** is a concept that believes that one's fundamental abilities
 * Ask for help
 
 You can reach Ting Luo at
-<Email>(tin831@gmail.com)
-<https://masonrybits.github.io/learning_journal/>
+[Email]<tin831@gmail.com>
+[Github]](https://masonrybits.github.io/learning_journal/)

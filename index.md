@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my Learning Journal
+
+A growth mindset is a concept that believes that one's fundamental abilities can be developed through effeort. A few reminder to keep a growth midnset are:
 
 You can use the [editor on GitHub](https://github.com/masonrybits/learning_journal.github.co/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 

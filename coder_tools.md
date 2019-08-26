@@ -14,3 +14,12 @@ A terminal is operated by typing command lines on the keyboard and feedback will
 Command | Action
 --------| -------
 pwd     | Print Working Directory
+ls      | List the contents of a directory
+ls -a   | List the contents of a directory, including hidden files
+cd      | Change Directories
+file    | Obtain information about what type of file a file or directory is.
+
+## Relative path
+A file or directory location relative to where we currently are in the file system.
+## Absolute path
+A file or directory location in relation to the root of the file system.

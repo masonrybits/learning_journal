@@ -1,8 +1,8 @@
-## Welcome to my Learning Journal
+# Welcome to my Learning Journal
 
-* markdown
-* coder's tools
-* git
+## * [markdown](https://masonrybits.github.io/learning_journal/learning_markdown)
+## * [coder's tools](https://masonrybits.github.io/learning_journal/coder_tools)
+## * [git](https://masonrybits.github.io/learning_journal/git)
 
 
 A **growth mindset** is a concept that believes that one's fundamental abilities can be developed through effeort. A few reminder to keep a growth midnset are:

@@ -9,7 +9,7 @@ A text editor is a software that allows one to write and edit text. Text editors
 
 
 # Terminal
-A terminal is operated by typing command lines on the keyboard and feedback will be given to you similarly as text.
+A terminal is operated by typing command lines on the keyboard and feedback will be given to you similarly as text. Below are a few commands in terminal.
 
 Command | Action
 --------| -------

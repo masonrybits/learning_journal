@@ -1,10 +1,11 @@
 # Script
 * A script is a series of instructions that the computer follows in order to achieve a goal.
+
 * To write a script, one needs to first define the goal, and then design the script by breaking down the goal into a series of steps, last code each step in a programming language that the computer understands. (Making a flowchart can be helpful).
 
 # JavaScript
 
-* Javascript is a scripting language used to enhance HTML pages and experience of interacting with the site. JavaScript is an interpreted language. Thus, it doesn't need to be compiled. Javascript renders web pages in an interactive and dynamic fashion. It is commonly found embedded in HTML code.
+* JavaScript is an asynchronous, dynamically-typed, interpreted scripting language, designed to make web pages dynamic and interactive. JavaScript is an interpreted language. Thus, it doesn't need to be compiled.
 
 * A script is made up of a series of statements that a computer can follow one-by-one. Each instruction is known as a **statement**.
 
@@ -18,6 +19,7 @@
 
 # Expressions and Operators
 * An **expression** evaluates into a single value. There are two types of expressions. One that just assigns a value to variable. And another that uses two or more values to return a single value.
+
 * Expressions rely on **operators**, which allow creating a single value from one or more values.
 
 # Functions

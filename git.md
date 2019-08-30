@@ -1,6 +1,6 @@
 # Git
 
-**Git** is a version control system that allows users to store and access data in a file system made up of snapshots. Git keeps track of every singe change applied to ant file and directory. Therefore, one can access and make revisions to previous snapshots. Git also foster collaboration process by allowing team members to have more knowledge of each other’s activities with certain files, and granting administrators more control over revision privileges.
+**Git** is a version control system that allows users to store and access data in a file system made up of snapshots. Git keeps track of every singe change applied to ant file and directory. Therefore, one can access and make revisions to previous snapshots. Git also fosters collaboration process by allowing team members to have more knowledge of each other’s activities with certain files, and granting administrators more control over revision privileges.
 
 Files in Git can reside in three main **states** :
 * Committed Data: is securely stored in a local database

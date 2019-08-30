@@ -6,6 +6,8 @@
 * [HTML](https://masonrybits.github.io/learning_journal/HTML)
 * [CSS](https://masonrybits.github.io/learning_journal/CSS)
 * [JavaScript](https://masonrybits.github.io/learning_journal/javascript)
+* [Computer](https://masonrybits.github.io/learning_journal/computer)
+
 
 A **growth mindset** is a concept that believes that one's fundamental abilities can be developed through effeort. A few reminder to keep a growth midnset are:
 
